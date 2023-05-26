@@ -1,3 +1,6 @@
+<p align="center">
+<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="sakif.kun" height="100%" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Md. Muyeen - Ul - Islam</h1>
 <h3 align="center">A Full Stack developer.</h3>
 
