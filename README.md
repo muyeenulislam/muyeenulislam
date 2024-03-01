@@ -36,12 +36,3 @@
 
 </br></br>
 
-<h1 align="center"> 🐍 A Snake Eating my Contributions Graph</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <p align = "center">
-	<img src = "https://github.com/muyeenulislam/muyeenulislam/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
-</picture>
